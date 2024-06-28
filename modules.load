@@ -1,7 +1,7 @@
 adsp_loader_dlkm.ko
 apr_dlkm.ko
 aw882xx_dlkm.ko
-awinic-haptic.ko
+aw8697-haptic.ko
 bolero_cdc_dlkm.ko
 bt_fm_slim.ko
 btpower.ko
@@ -38,8 +38,6 @@ swr_dlkm.ko
 swr_dmic_dlkm.ko
 swr_haptics_dlkm.ko
 tx_macro_dlkm.ko
-usb_f_dtp.ko
-usbdtp.ko
 va_macro_dlkm.ko
 wcd938x_dlkm.ko
 wcd938x_slave_dlkm.ko
@@ -50,4 +48,3 @@ wlan_firmware_service_v01.ko
 wsa883x_dlkm.ko
 wsa_macro_dlkm.ko
 xiaomi_touch.ko
-xiaomifp.ko
