@@ -7,6 +7,16 @@ The Xiaomi Poco X5 Pro 5G (codenamed _"redwood"_) is a mid-range smartphone from
 
 It was released in February 2023.
 
+## Build
+
+kernel: 5.4.268-AtomX-g9605768eea6c
+
+aosp: AP2A.240605.024
+
+firmware: V14.0.8.0.SMSEUXM
+
+packages: GoogleCameraGo
+
 ## Device specifications
 
 Basic   | Spec Sheet
