@@ -46,7 +46,9 @@ $(call inherit-product-if-exists, vendor/xiaomi/redwood-camera/miuicamera.mk)
 
 # Packages
 PRODUCT_PACKAGES += \
-    GoogleCameraGo
+    GoogleCameraGo \
+    OpenEUICC \
+    Updates
 
 # Sensors
 PRODUCT_PACKAGES += \

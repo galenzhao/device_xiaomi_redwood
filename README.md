@@ -11,11 +11,13 @@ It was released in February 2023.
 
 kernel: 5.4.268-AtomX-g9605768eea6c
 
-aosp: AP2A.240605.024
+aosp: AP2A.240705.005.A1
 
 firmware: V14.0.8.0.SMSEUXM
 
-packages: GoogleCameraGo
+packages: GoogleCameraGo+OpenEUICC
+
+Play Integrity: MEETS_BASIC_INTEGRITY, MEETS_DEVICE_INTEGRITY
 
 ## Device specifications
 
