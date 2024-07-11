@@ -50,6 +50,12 @@ PRODUCT_PACKAGES += \
     OpenEUICC \
     Updates
 
+# RCS
+PRODUCT_PACKAGES += \
+    com.android.ims.rcsmanager \
+    PresencePolling \
+    RcsService
+
 # Sensors
 PRODUCT_PACKAGES += \
     android.frameworks.sensorservice@1.0 \
